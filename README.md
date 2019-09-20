@@ -27,5 +27,13 @@ Features :
   *  display your current score and your current health and the high score of your device 
   
   * possibilty of saving locally the highest score
+  
+Don't hesitate to contact me :
+
+    my professional mail: is_metidji@esi.dz
+
+    My linkedin account: https://www.linkedin.com/in/sid-ahmed-metidji-837750184/
+
+ Please , if you like my project : leave a Star on this repository to motivate me .
  
  
