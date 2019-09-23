@@ -31,7 +31,7 @@ New Features (V2,0) :
   
   * Starting from the Fourth level  :  BIrds will be shown to throw bombs 
   
-  *the bird's speed , the bomb speed's and the bomb's damage depends to your level
+  * the bird's speed , the bomb speed's and the bomb's damage depends to your level
   
   * New sound efeects 
   
