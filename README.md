@@ -11,22 +11,31 @@ Instructions :
 
   Space <=> shoot a bullet
 
-Features :
-  * a music played on the background ( Alan Walker : 137 )
-  
-  * Sound effect for : 1:shooting a bullet    2:hitting goblin by a bullet    3:goblin hits you
+Features (V1,0) :
+
+  * Sound effects
   
   * the goblin may come from the left side or from the right side 
   
-  * if a goblin hits you : you will lose 33% of your health
+  * if a goblin hits you : you will lose some health depending to your current level
   
-  * for every 15 gobling killed : you earn 33% health
+  * for every level up : you will won some health recovery depending to your actual level
   
-  * the game became more and more difficult dependly to your score ( high score => high difficulty )
+  * the game became more and more difficult dependly to your score ( high score => higher level )
   
   *  display your current score and your current health and the high score of your device 
   
   * possibilty of saving locally the highest score
+  
+New Features (V2,0) :
+  
+  * Starting from the Fourth level  :  BIrds will be shown to throw bombs 
+  
+  *the bird's speed , the bomb speed's and the bomb's damage depends to your level
+  
+  * New sound efeects 
+  
+  
   
 Don't hesitate to contact me :
 
