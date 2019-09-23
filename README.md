@@ -1,4 +1,4 @@
-# Arcade_Game_Pygame
+# The Poor Hero
 A little game about a hero who tries to protect himself from the goblins by killing them.Unfortunately, our hero is unlucky because the goblins keep coming till they kill him . Poor hero !!
 
 Instructions :
